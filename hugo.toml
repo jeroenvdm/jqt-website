@@ -1,4 +1,0 @@
-baseURL = 'https://jeroenvdm.github.io/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'aditu'
