@@ -1,6 +1,6 @@
 ---
-title:  All I've got to do is pass as an ordinary human
-date:   2018-11-12 15:01:35 +0300
+title:  Continuous improvement in you organisation
+date:   2024-01-13 15:01:35 +0300
 image:  'https://via.placeholder.com/1260x840'
 tags:   [work]
 ---

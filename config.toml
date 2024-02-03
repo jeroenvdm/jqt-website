@@ -48,7 +48,7 @@ paginate = 9
   [params.hero]
     hero__title = "JQT Consultancy"
     hero__description = "Product & IT Services for the energy transition"
-    hero__image = "static/images/under-construction.jpg"
+    hero__image = "images/under-construction.jpg"
 
   # [[params.social]]
   #   icon = "ion-logo-twitter"
@@ -106,8 +106,8 @@ paginate = 9
 
   #-------------------------------
   # Comment Section (Disqus)
-  [params.disqus]
-    disqusShortname = "anvod-studio-aditu" # add your shortname for Disqus Comment. For example anvod-studio-aditu
+  # [params.disqus]
+  #   disqusShortname = "anvod-studio-aditu" # add your shortname for Disqus Comment. For example anvod-studio-aditu
 
 
 [markup]
