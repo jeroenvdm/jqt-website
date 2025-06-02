@@ -1,26 +1,20 @@
 ---
 title: About
-image: 'under-construction.jpg'
+image: '/images/About_Jeroen_v2.jpg'
 ---
 
-Hi, my name is Brandon Watson. I like being at the center of events, being free and enjoying every moment. Copper mug fam food truck intelligentsia 8-bit echo park ramps meggings humblebrag tacos selfies. Umami austin mlkshk, sriracha sartorial everyday carry shaman meh coloring book taxidermy slow-carb scenester pitchfork echo park. Selvage bushwick chambray coloring book put a bird.
+Hi, my name is Jeroen van der Meer, the driving force behind JQT Consultancy BV. With a Master’s degree in Electrical Engineering and a passion for renewable energy, I offer specialized Product Owner services to help your business succeed in the renewable energy sector. My technical expertise and problem-solving skills ensure your projects are delivered with precision and innovation. I have a focus on B2B E-commerce for renewable technologies like, heat pumps, solar systems and battery storage. In the past, I have helpd teams deliver sales and installations of renewable energy systems. These workflows heavily depended on configurators, quote tools and integrations with CRM and ERP systems. 
 
-![Time to think](https://via.placeholder.com/1260x840)
-*Time to think*
 
-Chillwave helvetica swag quinoa messenger bag hexagon poutine selfies thundercats small batch hell of godard roof party XOXO. Vinyl hexagon before they sold out, crucifix humblebrag squid chicharrones enamel pin. Iceland humblebrag farm-to-table, lyft pug tilde irony.
-Hot chicken shoreditch tousled listicle, actually meggings vape. Pok pok listicle meggings, gluten-free deep v you probably haven't heard of them taxidermy iPhone gentrify seitan. Marfa schlitz literally.
 
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="https://via.placeholder.com/1260x840">
-    <img src="https://via.placeholder.com/1260x840">
-    <img src="https://via.placeholder.com/1260x840">
-  </div>
-</div>
 
-The Force is strong with this one. I have you now. I find your lack of faith disturbing. Hey, Luke! May the Force be with you. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There’ll be no one to stop us this time!
+## Why Choose Me?
 
-Shoreditch activated charcoal iceland hexagon. Glossier umami twee, snackwave paleo vaporware pickled tacos meditation typewriter drinking vinegar leggings. Mumblecore freegan butcher messenger bag, twee thundercats ennui gochujang disrupt mlkshk. Wayfarers neutra listicle YOLO ennui ramps vinyl tote bag waistcoat blue bottle poutine. Fam yuccie man bun brunch fashion.
+* Deep Technical Knowledge: My technical background allows me to translate domain knowledge from the energy sector into solutions which the development teams are able to create. My development experience allows me to understand limitations experienced by development teams, and negotiate effective and efficient software development. 
+* Specialized Focus: I focus on renewable energy: solar systems, batteries, and heat pumps, providing targeted expertise for your projects.
+* Problem-Solving Expertise: I excel at finding innovative solutions to technically difficult problems, ensuring robust outcomes.
+* Proven Product Ownership: I bridge the gap between technical teams and business objectives, delivering projects that meet both technical and strategic goals.
 
-Tousled brunch leggings hella viral twee etsy 90's sartorial kogi keytar fam hot chicken yr. Meh small batch single-origin coffee brooklyn trust fund cornhole freegan stumptown banjo sriracha tote bag aesthetic listicle crucifix pug. Mustache vaporware kitsch, snackwave cronut semiotics viral cray.
+[Jeroen on LinkedIn](https://www.linkedin.com/in/jeroenvdmeer1975/)
+
+If you are in need of product owner services, please contact me at [jeroen@jqtconsultancy.com](mailto:jeroen@jqtconsultancy.com)

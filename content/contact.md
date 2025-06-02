@@ -1,7 +1,9 @@
 ---
 layout: contact
 title: Contact Me
-image: 'https://via.placeholder.com/1260x840'
+image: '/images/contact-me.jpg'
 ---
 
-The Force is strong with this one. I have you now. I find your lack of faith disturbing. Hey, Luke! May the Force be with you. She must have hidden the plans in the escape pod. Send a detachment down to retrieve them, and see to it personally, Commander. There’ll be no one to stop us this time!
+For inquiries regarding JQT Consultancy's services or to discuss your project needs, please use the contact form below. I will get back to you as soon as possible.
+
+

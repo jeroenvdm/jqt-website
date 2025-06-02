@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Aditu</title>
-    <link>http://example.org/tags/</link>
-    <description>Recent content in Tags on Aditu</description>
+    <title>Tags on JQT Consultancy</title>
+    <link>https://jqtconsultancy.com/tags/</link>
+    <description>Recent content in Tags on JQT Consultancy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Nov 2018 15:01:35 +0300</lastBuildDate>
-    <atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 13 Jan 2024 15:01:35 +0300</lastBuildDate>
+    <atom:link href="https://jqtconsultancy.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>lifestyle</title>
-      <link>http://example.org/tags/lifestyle/</link>
-      <pubDate>Tue, 13 Nov 2018 15:01:35 +0300</pubDate>
-      <guid>http://example.org/tags/lifestyle/</guid>
+      <title>work</title>
+      <link>https://jqtconsultancy.com/tags/work/</link>
+      <pubDate>Sat, 13 Jan 2024 15:01:35 +0300</pubDate>
+      <guid>https://jqtconsultancy.com/tags/work/</guid>
       <description></description>
     </item>
     <item>
-      <title>work</title>
-      <link>http://example.org/tags/work/</link>
-      <pubDate>Mon, 12 Nov 2018 15:01:35 +0300</pubDate>
-      <guid>http://example.org/tags/work/</guid>
+      <title>lifestyle</title>
+      <link>https://jqtconsultancy.com/tags/lifestyle/</link>
+      <pubDate>Tue, 13 Nov 2018 15:01:35 +0300</pubDate>
+      <guid>https://jqtconsultancy.com/tags/lifestyle/</guid>
       <description></description>
     </item>
     <item>
       <title>travel</title>
-      <link>http://example.org/tags/travel/</link>
+      <link>https://jqtconsultancy.com/tags/travel/</link>
       <pubDate>Sun, 11 Nov 2018 15:01:35 +0300</pubDate>
-      <guid>http://example.org/tags/travel/</guid>
+      <guid>https://jqtconsultancy.com/tags/travel/</guid>
       <description></description>
     </item>
     <item>
       <title>rest</title>
-      <link>http://example.org/tags/rest/</link>
+      <link>https://jqtconsultancy.com/tags/rest/</link>
       <pubDate>Wed, 07 Nov 2018 15:01:35 +0300</pubDate>
-      <guid>http://example.org/tags/rest/</guid>
+      <guid>https://jqtconsultancy.com/tags/rest/</guid>
       <description></description>
     </item>
   </channel>

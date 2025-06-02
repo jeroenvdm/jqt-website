@@ -41,14 +41,14 @@ paginate = 9
 
   [params.author]
     name = "Jeroen van der Meer"
-    avatar = "https://via.placeholder.com/100x100"
+    avatar = "images/avatar_jeroen.jpg"
 
   #-------------------------------
   # Hero Settings
   [params.hero]
     hero__title = "JQT Consultancy"
     hero__description = "Product & IT Services for the energy transition"
-    hero__image = "images/under-construction.jpg"
+    hero__image = "images/solving-problems-with-a-professional-team-in-a-company.jpg"
 
   # [[params.social]]
   #   icon = "ion-logo-twitter"
@@ -99,7 +99,7 @@ paginate = 9
   #-------------------------------
   # Contact Settings
   [params.contact]
-    email = "jeroen@jqtconsultancy.com" # Add your email for contant form
+    email = "f/xwpbkvoz" # Add your email for contant form
 
     # NOTE
     # Aditu comes with a built-in contact form, that you can use with Formspree service to handle up to 50 submissions per month for free. You could also easily switch to another contact form service if you want.

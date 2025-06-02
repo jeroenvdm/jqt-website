@@ -1541,7 +1541,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "Poppins", Arial, sans-serif;
+  font-family: "Lato", Arial, sans-serif;
   font-weight: 700;
   line-height: 1.4em;
   color: #fff; }
@@ -1567,7 +1567,7 @@ h6 {
 blockquote {
   position: relative;
   padding: 20px 20px 20px 45px;
-  font-family: "Poppins", Arial, sans-serif;
+  font-family: "Lato", Arial, sans-serif;
   font-size: 21px;
   line-height: 37px;
   font-weight: 700;
@@ -1575,7 +1575,7 @@ blockquote {
   blockquote:before {
     content: '\201C';
     position: absolute;
-    font-family: "Poppins", Arial, sans-serif;
+    font-family: "Lato", Arial, sans-serif;
     top: 0.3em;
     left: -0.01em;
     font-size: 4em;
@@ -1832,7 +1832,7 @@ table tr:hover {
 
 /* Logo */
 .logo__link {
-  font-family: "Poppins", Arial, sans-serif;
+  font-family: "Lato", Arial, sans-serif;
   font-size: 27px;
   line-height: 1;
   font-weight: 700;
@@ -2061,7 +2061,7 @@ table tr:hover {
     width: 100%;
     height: auto;
     padding: 15px 20px;
-    font-family: "Poppins", Arial, sans-serif;
+    font-family: "Lato", Arial, sans-serif;
     font-size: 28px;
     font-weight: 700;
     line-height: 42px;
@@ -2226,7 +2226,7 @@ table tr:hover {
     width: 100%;
     height: 50px;
     padding: 8px 15px;
-    font-family: "Poppins", Arial, sans-serif;
+    font-family: "Lato", Arial, sans-serif;
     font-size: 13px;
     border-radius: 5px;
     line-height: 50px;
@@ -2331,7 +2331,7 @@ table tr:hover {
     height: 60px;
     width: 100%;
     max-width: 280px;
-    font-family: "Poppins", Arial, sans-serif;
+    font-family: "Lato", Arial, sans-serif;
     font-size: 12px;
     line-height: 60px;
     font-weight: 600;
@@ -2669,7 +2669,7 @@ table tr:hover {
     position: relative;
     display: inline-block;
     margin-bottom: 25px;
-    font-family: "Poppins", Arial, sans-serif;
+    font-family: "Lato", Arial, sans-serif;
     font-size: 15px;
     font-weight: 700;
     letter-spacing: 1px;
@@ -2746,7 +2746,7 @@ table tr:hover {
       display: inline-block;
       margin-bottom: 5px;
       font-size: 13px;
-      font-family: "Poppins", Arial, sans-serif;
+      font-family: "Lato", Arial, sans-serif;
       letter-spacing: 1px;
       text-transform: uppercase;
       color: rgba(255, 255, 255, 0.8); }
@@ -2866,14 +2866,14 @@ table tr:hover {
 .form__label {
   display: inline-block;
   margin-bottom: 5px;
-  font-family: "Poppins", Arial, sans-serif;
+  font-family: "Lato", Arial, sans-serif;
   font-size: 14px;
   font-weight: 600; }
 
 .form__input {
   width: 100%;
   padding: 15px;
-  font-family: "Poppins", Arial, sans-serif;
+  font-family: "Lato", Arial, sans-serif;
   font-size: 14px;
   border-radius: 5px; }
 
