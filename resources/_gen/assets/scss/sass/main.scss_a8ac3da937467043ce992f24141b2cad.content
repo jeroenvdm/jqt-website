@@ -2877,4 +2877,13 @@ table tr:hover {
   font-size: 14px;
   border-radius: 5px; }
 
+.booking-container {
+  max-width: 900px;
+  margin: 2rem auto 4rem auto;
+  padding: 1rem; }
+
+.booking-embed iframe {
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1); }
+
 /*# sourceMappingURL=main.css.map */

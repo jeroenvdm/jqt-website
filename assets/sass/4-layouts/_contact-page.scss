@@ -18,3 +18,23 @@
   font-size: 14px;
   border-radius: 5px;
 }
+
+// Variables
+$booking-max-width: 900px;
+$booking-margin: 2rem auto 4rem auto;
+$booking-padding: 1rem;
+$booking-border-radius: 8px;
+$booking-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+
+.booking-container {
+  max-width: $booking-max-width;
+  margin: $booking-margin;
+  padding: $booking-padding;
+}
+
+.booking-embed {
+  iframe {
+    border-radius: $booking-border-radius;
+    box-shadow: $booking-shadow;
+  }
+}
