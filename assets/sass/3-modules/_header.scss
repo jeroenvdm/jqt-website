@@ -3,7 +3,7 @@
   width: 100%;
   margin: 35px 0;
   transition: $global-transition;
-  color: $white;
+  color: $dark;
   @media only screen and (max-width: $desktop) {
     margin: 25px 0;
   }
@@ -64,11 +64,11 @@
     height: 40px;
     text-align: center;
     line-height: 40px;
-    color: rgba($white, .5);
+    color: rgba($dark, .5);
     transition: all .25s ease;
     cursor: pointer;
     &:hover {
-      color: $white;
+      color: $dark;
     }
   }
 
@@ -106,7 +106,7 @@
         font-size: 16px;
         font-weight: 400;
         text-decoration: none;
-        color: $white;
+        color: $dark;
         &:hover {
           &::before {
             opacity: 1;
@@ -164,7 +164,7 @@
   display: flex;
   align-items: center;
   font-size: 24px;
-  color: $white;
+  color: $dark;
 
   .nav__icon-menu {
     display: none;
@@ -237,7 +237,7 @@
     display: block;
     width: 25px;
     height: 2px;
-    background-color: $white;
+    background-color: $brand-color;
   }
   @media only screen and (max-width: $tablet) {
     margin-bottom: 30px;

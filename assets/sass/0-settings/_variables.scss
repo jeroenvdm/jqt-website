@@ -12,18 +12,23 @@ $global-transition: all .2s;
 // *****************
 // Color Variables
 // *****************
-$brand-color: #323a96;
-$dark: #0a0a12;
-$blue-dark: #16151f;
-$gray: #757575;
-$light-gray: #c6c6c6;
-$white: #fff;
+// Primary Brand Colors
+$brand-color: #01B448;        // Green - primary accent
+$brand-color-hover: #003AA7;  // Dark Blue - hover states
+$link-color: #0080DF;          // Light Blue - links and highlights
+
+// Neutral Colors
+$dark: #474747;                // Dark Grey - text color
+$gray: #6B6B6B;                // Medium Grey - secondary text
+$light-gray: #D0D0D0;          // Light Grey - borders
+$white: #FFFFFF;               // White - cards and sections
+$off-white: #FAFAFA;           // Off-white - background
 
 // Body Color
-$text-color: $white;
+$text-color: $dark;
 
 // Background Colors
-$background-color: $blue-dark;
+$background-color: $off-white;
 
 
 // *****************

@@ -54,7 +54,7 @@ paginate = 9
   [params.hero]
     hero__title = "JQT Consultancy"
     hero__description = """Hi, my name is Jeroen van der Meer from JQT Consultancy BV. With a Master’s degree in Electrical Engineering and a passion for renewable energy, I offer specialized Product Owner services to help your business succeed in the renewable energy sector. My technical expertise and problem-solving skills ensure your projects are delivered with precision and innovation. I have a focus on B2B E-commerce for renewable technologies like, heat pumps, solar systems and battery storage. In the past, I have helpd teams deliver sales and installations of renewable energy systems. These workflows heavily depended on configurators, quote tools and integrations with CRM and ERP systems."""
-    hero__image = "images/solving-problems-with-a-professional-team-in-a-company.jpg"
+    hero__image = "images/Project-view-with-priorities-on-iMac.png"
 
   # [[params.social]]
   #   icon = "ion-logo-twitter"
