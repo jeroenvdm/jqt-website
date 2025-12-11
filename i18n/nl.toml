@@ -1,0 +1,155 @@
+# Menu Items
+[home]
+other = "Home"
+
+[services]
+other = "Diensten"
+
+[about]
+other = "Over"
+
+[blogs]
+other = "Blogs"
+
+[contact]
+other = "Contact"
+
+# Content
+[article]
+other = "Artikel"
+
+[articles]
+other = "Artikelen"
+
+[read_more]
+other = "Lees Meer"
+
+[featured]
+other = "Uitgelicht"
+
+[recent_posts]
+other = "Recente Berichten"
+
+[all_posts]
+other = "Alle Berichten"
+
+# Pagination
+[older_posts]
+other = "Oudere Berichten"
+
+[newer_posts]
+other = "Nieuwere Berichten"
+
+[page]
+other = "Pagina"
+
+[of]
+other = "van"
+
+# Contact Form
+[your_name]
+other = "Uw Naam"
+
+[your_email]
+other = "Uw E-mail"
+
+[your_message]
+other = "Uw Bericht"
+
+[send_message]
+other = "Verstuur Bericht"
+
+[contact_success]
+other = "Bedankt voor uw bericht! Ik neem spoedig contact met u op."
+
+[contact_error]
+other = "Sorry, er is een fout opgetreden bij het verzenden van uw bericht. Probeer het opnieuw."
+
+[name_placeholder]
+other = "Naam..."
+
+[email_placeholder]
+other = "E-mail..."
+
+[message_placeholder]
+other = "Bericht..."
+
+[book_appointment]
+other = "Maak een afspraak"
+
+# Search
+[search]
+other = "Zoeken"
+
+[search_placeholder]
+other = "Zoek artikelen..."
+
+[search_results]
+other = "Zoekresultaten"
+
+[no_results]
+other = "Geen resultaten gevonden"
+
+# Footer
+[copyright]
+other = "Alle rechten voorbehouden"
+
+[powered_by]
+other = "Mogelijk gemaakt door"
+
+# Social
+[follow_me]
+other = "Volg Mij"
+
+[share_this]
+other = "Deel Dit"
+
+# Date & Time
+[published_on]
+other = "Gepubliceerd op"
+
+[updated_on]
+other = "Bijgewerkt op"
+
+[reading_time]
+other = "min lezen"
+
+# Tags & Categories
+[tags]
+other = "Tags"
+
+[tagged]
+other = "Getagd"
+
+[categories]
+other = "Categorieën"
+
+[in]
+other = "in"
+
+# Language
+[language]
+other = "Taal"
+
+[choose_language]
+other = "Kies taal"
+
+# Navigation
+[next]
+other = "Volgende"
+
+[previous]
+other = "Vorige"
+
+[back_to_top]
+other = "Terug naar Boven"
+
+[back_to_home]
+other = "Terug naar Home"
+
+# Errors
+[page_not_found]
+other = "Pagina Niet Gevonden"
+
+[error_404_message]
+other = "Sorry, de pagina die u zoekt bestaat niet of is verplaatst."

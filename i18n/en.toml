@@ -1,0 +1,155 @@
+# Menu Items
+[home]
+other = "Home"
+
+[services]
+other = "Services"
+
+[about]
+other = "About"
+
+[blogs]
+other = "Blogs"
+
+[contact]
+other = "Contact Me"
+
+# Content
+[article]
+other = "Article"
+
+[articles]
+other = "Articles"
+
+[read_more]
+other = "Read More"
+
+[featured]
+other = "Featured"
+
+[recent_posts]
+other = "Recent Posts"
+
+[all_posts]
+other = "All Posts"
+
+# Pagination
+[older_posts]
+other = "Older Posts"
+
+[newer_posts]
+other = "Newer Posts"
+
+[page]
+other = "Page"
+
+[of]
+other = "of"
+
+# Contact Form
+[your_name]
+other = "Your Name"
+
+[your_email]
+other = "Your Email"
+
+[your_message]
+other = "Your Message"
+
+[send_message]
+other = "Send Message"
+
+[contact_success]
+other = "Thank you for your message! I'll get back to you soon."
+
+[contact_error]
+other = "Sorry, there was an error sending your message. Please try again."
+
+[name_placeholder]
+other = "Name..."
+
+[email_placeholder]
+other = "Email..."
+
+[message_placeholder]
+other = "Message..."
+
+[book_appointment]
+other = "Book an appointment"
+
+# Search
+[search]
+other = "Search"
+
+[search_placeholder]
+other = "Search articles..."
+
+[search_results]
+other = "Search Results"
+
+[no_results]
+other = "No results found"
+
+# Footer
+[copyright]
+other = "All rights reserved"
+
+[powered_by]
+other = "Powered by"
+
+# Social
+[follow_me]
+other = "Follow Me"
+
+[share_this]
+other = "Share This"
+
+# Date & Time
+[published_on]
+other = "Published on"
+
+[updated_on]
+other = "Updated on"
+
+[reading_time]
+other = "min read"
+
+# Tags & Categories
+[tags]
+other = "Tags"
+
+[tagged]
+other = "Tagged"
+
+[categories]
+other = "Categories"
+
+[in]
+other = "in"
+
+# Language
+[language]
+other = "Language"
+
+[choose_language]
+other = "Choose language"
+
+# Navigation
+[next]
+other = "Next"
+
+[previous]
+other = "Previous"
+
+[back_to_top]
+other = "Back to Top"
+
+[back_to_home]
+other = "Back to Home"
+
+# Errors
+[page_not_found]
+other = "Page Not Found"
+
+[error_404_message]
+other = "Sorry, the page you are looking for doesn't exist or has been moved."

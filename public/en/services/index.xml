@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on JQT Consultancy</title>
+    <link>http://localhost:56798/en/services/</link>
+    <description>Recent content in Services on JQT Consultancy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:56798/en/services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Product Owner Services</title>
+      <link>http://localhost:56798/en/services/product-owner/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56798/en/services/product-owner/</guid>
+      <description>Experienced (12 years) product owner for software systems. I am experienced in software products like webapps, and iPad apps including the necessary back-end services and company system integrations. I have specialized in e-Commerce applications in the renewable energy sector, but I learn domain knowledge quickly. Fluent in English and Dutch, I will actively seek for improved solutions for challenges and opportunities of and with the stake holders.&#xA;Core Expertise Applying the scrum agile framework as a product owner with internal and external teams.</description>
+    </item>
+  </channel>
+</rss>

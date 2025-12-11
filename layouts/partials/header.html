@@ -37,7 +37,7 @@
             </div>
           </nav>
         </div>
-
+        
         <div class="navigation">
           <div class="top-nav">
             <ul class="nav__list list-reset">
@@ -49,15 +49,14 @@
             </ul>
           </div>
           <div class="nav-buttons">
+            {{ partial "language-switcher.html" . }}
             <i class="nav__icon nav__icon-menu ion ion-md-menu"></i>
             <i class="nav__icon nav__icon-search ion ion-md-search"></i>
           </div>
         </div>
-
       </div>
     </div>
   </div>
 </header>
 <!-- end header -->
-
 {{ partial "search.html" . }}

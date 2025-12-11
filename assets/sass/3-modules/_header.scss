@@ -64,11 +64,11 @@
     height: 40px;
     text-align: center;
     line-height: 40px;
-    color: rgba($dark, .5);
+    color: rgba($white, .7);
     transition: all .25s ease;
     cursor: pointer;
     &:hover {
-      color: $dark;
+      color: $white;
     }
   }
 
@@ -150,7 +150,7 @@
       .nav__link {
         position: relative;
         font-size: 18px;
-        color: $text-color;
+        color: $off-white;
       }
 
       @media only screen and (max-width: $mobile) {
@@ -227,7 +227,7 @@
   font-size: 30px;
   font-weight: 700;
   text-align: center;
-  color: $text-color;
+  color: $off-white;
   &::after {
     content: "";
     position: absolute;

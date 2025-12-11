@@ -1,0 +1,92 @@
+{{ if .Site.IsMultiLingual }}
+<div class="language-switcher">
+  <button class="language-switcher__button" aria-label="Choose language" aria-haspopup="true" aria-expanded="false">
+    <span class="language-switcher__current">{{ .Site.Language.LanguageName }}</span>
+    <svg class="language-switcher__icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 512 512">
+      <path fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="48" d="M112 184l144 144 144-144"/>
+    </svg>
+  </button>
+
+  <ul class="language-switcher__dropdown">
+    {{ range .Site.Languages }}
+      {{ if eq .Lang $.Site.Language.Lang }}
+        <!-- Current language - shown but not linked -->
+        <li class="language-switcher__item language-switcher__item--active">
+          <span class="language-switcher__link language-switcher__link--active" aria-current="true">
+            {{ .LanguageName }}
+          </span>
+        </li>
+      {{ else }}
+        <!-- Other languages - check if translation exists -->
+        <li class="language-switcher__item">
+          {{ if $.IsTranslated }}
+            {{ range $.Translations }}
+              {{ if eq .Language.Lang .Lang }}
+                <a class="language-switcher__link" href="{{ .Permalink }}" lang="{{ .Language.Lang }}">
+                  {{ .Language.LanguageName }}
+                </a>
+              {{ end }}
+            {{ end }}
+          {{ else }}
+            <!-- No translation available - link to home page of that language -->
+            <a class="language-switcher__link" href="{{ .Lang | relLangURL }}" lang="{{ .Lang }}">
+              {{ .LanguageName }}
+            </a>
+          {{ end }}
+        </li>
+      {{ end }}
+    {{ end }}
+  </ul>
+</div>
+
+<script>
+(function() {
+  const switcher = document.querySelector('.language-switcher');
+  if (!switcher) return;
+
+  const button = switcher.querySelector('.language-switcher__button');
+  const dropdown = switcher.querySelector('.language-switcher__dropdown');
+
+  if (!button || !dropdown) return;
+
+  // Toggle dropdown on button click
+  button.addEventListener('click', function(e) {
+    e.stopPropagation();
+    const isOpen = button.classList.contains('is-open');
+
+    if (isOpen) {
+      closeDropdown();
+    } else {
+      openDropdown();
+    }
+  });
+
+  // Close dropdown when clicking outside
+  document.addEventListener('click', function(e) {
+    if (!switcher.contains(e.target)) {
+      closeDropdown();
+    }
+  });
+
+  // Close dropdown on Escape key
+  document.addEventListener('keydown', function(e) {
+    if (e.key === 'Escape' && button.classList.contains('is-open')) {
+      closeDropdown();
+      button.focus();
+    }
+  });
+
+  function openDropdown() {
+    button.classList.add('is-open');
+    dropdown.classList.add('is-open');
+    button.setAttribute('aria-expanded', 'true');
+  }
+
+  function closeDropdown() {
+    button.classList.remove('is-open');
+    dropdown.classList.remove('is-open');
+    button.setAttribute('aria-expanded', 'false');
+  }
+})();
+</script>
+{{ end }}

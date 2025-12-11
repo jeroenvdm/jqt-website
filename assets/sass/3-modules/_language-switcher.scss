@@ -1,0 +1,138 @@
+/* Language Switcher */
+.language-switcher {
+  position: relative;
+  display: inline-block;
+  margin-left: 20px;
+  margin-right: 25px;  // Add spacing before search icon
+
+  &__button {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding: 8px 12px;
+    border: 1px solid $light-gray;
+    border-radius: 4px;
+    background-color: $white;
+    color: $dark;
+    font-size: 14px;  // Reduced by 10% from 16px
+    font-weight: 400;
+    cursor: pointer;
+    transition: $global-transition;
+
+    &:hover {
+      border-color: $brand-color;
+      background-color: rgba($brand-color, 0.05);
+    }
+
+    &:focus {
+      outline: 2px solid $brand-color;
+      outline-offset: 2px;
+    }
+  }
+
+  &__current {
+    line-height: 1;
+  }
+
+  &__icon {
+    width: 12px;
+    height: 12px;
+    transition: transform 0.2s ease;
+  }
+
+  &__button.is-open &__icon {
+    transform: rotate(180deg);
+  }
+
+  &__dropdown {
+    position: absolute;
+    top: calc(100% + 8px);
+    right: 0;
+    min-width: 150px;
+    margin: 0;
+    padding: 8px 0;
+    list-style: none;
+    background-color: $white;
+    border: 1px solid $light-gray;
+    border-radius: 4px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    display: none;  // Hidden by default
+    z-index: 100;
+  }
+
+  &__dropdown.is-open {
+    display: block;  // Show when opened
+    animation: fadeInDown 0.2s ease;
+  }
+
+  @keyframes fadeInDown {
+    from {
+      opacity: 0;
+      transform: translateY(-10px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  &__item {
+    margin: 0;
+    padding: 0;
+  }
+
+  &__link {
+    display: block;
+    padding: 10px 16px;
+    color: $dark;
+    text-decoration: none;
+    font-size: 14px;  // Reduced by 10% from 16px
+    font-weight: 400;
+    transition: $global-transition;
+
+    &:hover {
+      background-color: rgba($brand-color, 0.08);
+      color: $brand-color;
+    }
+
+    &--active {
+      background-color: rgba($brand-color, 0.1);
+      color: $brand-color;
+      font-weight: 600;
+      cursor: default;
+    }
+  }
+
+  @media only screen and (max-width: $desktop) {
+    margin-left: 15px;
+    margin-right: 20px;  // Proportional spacing for tablet
+
+    &__button {
+      padding: 6px 10px;
+      font-size: 13px;  // Reduced by 10% from 14px
+    }
+
+    &__link {
+      font-size: 13px;  // Reduced by 10% from 14px
+    }
+  }
+
+  @media only screen and (max-width: $mobile) {
+    margin-left: 10px;
+    margin-right: 15px;  // Proportional spacing for mobile
+
+    &__button {
+      padding: 5px 8px;
+      font-size: 12px;  // Reduced by 10% from 13px
+    }
+
+    &__dropdown {
+      min-width: 120px;
+    }
+
+    &__link {
+      padding: 8px 12px;
+      font-size: 12px;  // Reduced by 10% from 13px
+    }
+  }
+}

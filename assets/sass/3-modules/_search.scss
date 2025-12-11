@@ -36,11 +36,11 @@
     transform: translateY(-50%);
     font-size: 30px;
     line-height: 1;
-    color: rgba($text-color, .5);
+    color: rgba($off-white, .7);  // Changed from $text-color
     transition: all .25s;
     cursor: pointer;
     &:hover {
-      color: $text-color;
+      color: $off-white;  // Changed from $text-color
     }
   }
 
@@ -66,24 +66,24 @@
     font-weight: 700;
     line-height: 42px;
     border-radius: 5px;
-    border: 3px solid rgba($text-color, .5);
+    border: 3px solid rgba($off-white, .5);  // Changed from $text-color
     transition: all .3s;
-    color: $text-color;
+    color: $off-white;  // Changed from $text-color
     background-color: transparent;
 
     &::-webkit-input-placeholder {
       font-weight: 700;
-      color: rgba($text-color, .5);
+      color: rgba($off-white, .7);  // Changed from $text-color
     }
     &::placeholder {
       font-weight: 700;
-      color: rgba($text-color, .5);
+      color: rgba($off-white, .7);  // Changed from $text-color
     }
     &::-ms-clear {
       display: none;
     }
     &:focus {
-      color: $text-color;
+      color: $off-white;  // Changed from $text-color
       border-color: $brand-color;
     }
 
@@ -98,7 +98,7 @@
   padding: 0 0 25px 0;
   list-style: circle;
   font-weight: 700;
-  color: $text-color;
+  color: $off-white;  // Changed from $text-color
   overflow: auto;
   white-space: normal;
 
@@ -111,7 +111,7 @@
     margin-bottom: 15px;
     display: list-item;
     list-style-type: none;
-    border-bottom: 1px solid rgba($text-color, .1);
+    border-bottom: 1px solid rgba($off-white, .1);  // Changed from $text-color
   }
 
   .search-results__link {
@@ -122,7 +122,7 @@
     font-size: 18px;
     line-height: 24px;
     font-weight: 700;
-    color: $text-color;
+    color: $off-white;  // Changed from $text-color
     transition: all .25s ease-in-out;
     &:hover {
       margin-left: 15px;
@@ -135,7 +135,7 @@
       width: 7px;
       height: 7px;
       border-radius: 50%;
-      border: 1px solid $text-color;
+      border: 1px solid $off-white;  // Changed from $text-color
     }
   }
 
@@ -143,13 +143,15 @@
     font-size: 12px;
     line-height: 1;
     font-weight: 400;
-    color: rgba($text-color, .6);
+    color: rgba($off-white, .6);  // Changed from $text-color
   }
 
   .no-results {
     list-style: none;
+    color: $off-white;  // Ensure "No results found" text is visible
     h3 {
       font-size: 18px;
+      color: $off-white;  // Explicit color for heading
     }
   }
 }

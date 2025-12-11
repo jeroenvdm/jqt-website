@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JQT Consultancy</title>
+    <link>http://localhost:56798/en/</link>
+    <description>Recent content on JQT Consultancy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 10 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:56798/en/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Product Management met Claude Code</title>
+      <link>http://localhost:56798/en/blogs/product_mgmt_with_claude_code/</link>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56798/en/blogs/product_mgmt_with_claude_code/</guid>
+      <description>Waar we als product owners vroeger mock-ups maakte met Figma of ander gereedschap, hebben we nu AI coding gereedschappen ter beschikking om prototypes van de features en oplossingen te maken. Samen met de stake holders kunnen we steeds sneller itereren over de gwenste functionaliteit en daarmee een completere set specificaties aan het development team bezorgen. In dit artikelen, stel ik mijzelf als doel om aan de hand van een specificatie van een werkend prototype te maken samen met Claude Code.</description>
+    </item>
+    <item>
+      <title>Successful collabrotation with the DBA Act</title>
+      <link>http://localhost:56798/en/wet-dba/</link>
+      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56798/en/wet-dba/</guid>
+      <description>Since January 1, 2025, the DBA (Deregulation of Labor Relations Assessment Act) is actively enforced by the Dutch tax authorities. This law has existed since 2016 but was not monitored until 2025. The following aspects ensure that hiring me from JQT Consultancy BV is not problematic:&#xA;JQT Consultancy BV: You can hire me for assignments through JQT Consultancy BV, which has multiple clients for both software services and IT consultancy work.</description>
+    </item>
+    <item>
+      <title>Product Owner Services</title>
+      <link>http://localhost:56798/en/services/product-owner/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56798/en/services/product-owner/</guid>
+      <description>Experienced (12 years) product owner for software systems. I am experienced in software products like webapps, and iPad apps including the necessary back-end services and company system integrations. I have specialized in e-Commerce applications in the renewable energy sector, but I learn domain knowledge quickly. Fluent in English and Dutch, I will actively seek for improved solutions for challenges and opportunities of and with the stake holders.&#xA;Core Expertise Applying the scrum agile framework as a product owner with internal and external teams.</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:56798/en/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56798/en/about/</guid>
+      <description>Hi, my name is Jeroen van der Meer, the driving force behind JQT Consultancy BV. With a Master’s degree in Electrical Engineering and a passion for renewable energy, I offer specialized Product Owner services to help your business succeed in the renewable energy sector. My technical expertise and problem-solving skills ensure your projects are delivered with precision and innovation. I have a focus on B2B E-commerce for renewable technologies like, heat pumps, solar systems and battery storage.</description>
+    </item>
+    <item>
+      <title>Book an Appointment</title>
+      <link>http://localhost:56798/en/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56798/en/contact/</guid>
+      <description>Welcome to JQT Consultancy&#xA;Great that you want to get in touch! Whether you just want to meet, have questions about a project, or are interested in our services - I&amp;rsquo;m here for you. Choose a time that works best for you and we&amp;rsquo;ll schedule a conversation.&#xA;If you have a question best answered by e-mail, please fill out the contact form below.</description>
+    </item>
+    <item>
+      <title>Style Guide</title>
+      <link>http://localhost:56798/en/styleguide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:56798/en/styleguide/</guid>
+      <description>A paragraph looks like this — dolor amet cray stumptown fingerstache neutra food truck seitan poke cardigan waistcoat VHS snackwave celiac hella. Godard seitan shoreditch flexitarian next level trust fund man braid vegan listicle keytar bitters. Disrupt cray fashion axe unicorn lomo shaman poke glossier keffiyeh snackwave austin tattooed seitan hexagon lo-fi. Lumbersexual irony vaporware, butcher shaman.&#xA;Headings by default: H1 Default styles for headings H2 Default styles for headings H3 Default styles for headings H4 Default styles for headings H5 Default styles for headings H6 Default styles for headings Lists Ordered list example: Poutine drinking vinegar bitters.</description>
+    </item>
+  </channel>
+</rss>

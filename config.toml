@@ -1,60 +1,130 @@
 #-------------------------------
 # General Site Settings
 baseURL = "https://jqtconsultancy.com/"
-languageCode = "en-us"
 title = "JQT Consultancy"
 googleAnalytics = "G-M88V762P7V" # Add your identifier. For example UA-99631805-1.
 paginate = 9
-
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true  # Force English to use /en/ subdirectory
 
 #-------------------------------
-# Main Menu
-[menu]
-  [[menu.main]]
+# Languages
+[languages]
+  [languages.en]
+    contentDir = 'content/en'
+    languageName = 'English'
+    languageCode = "en-US"
+    weight = 10
+
+    # English-specific parameters
+    [languages.en.params]
+      description = "JQT Consultancy is a company offering IT & Product services for a world transitioning to clean energy."
+
+      [languages.en.params.hero]
+        hero__title = "JQT Consultancy"
+        hero__description = """Product Management and IT services for a clean energy future."""
+        hero__image = "/images/Project-view-with-priorities-on-iMac.png"
+
+  [languages.nl]
+    contentDir = 'content/nl'
+    languageName = 'Nederlands'
+    languageCode = "nl-NL"
+    weight = 20
+
+    # Dutch-specific parameters
+    [languages.nl.params]
+      description = "JQT Consultancy is een bedrijf dat IT & Product diensten biedt voor een wereld die overschakelt naar schone energie."
+
+      [languages.nl.params.hero]
+        hero__title = "JQT Consultancy"
+        hero__description = """Product Management en IT diensten voor een schone energie toekomst."""
+        hero__image = "/images/Project-view-with-priorities-on-iMac.png"
+
+#-------------------------------
+# English Menu
+[languages.en.menu]
+  [[languages.en.menu.main]]
     identifier = "home"
     name = "Home"
-    url = "/"
+    url = "/en/"
     weight = 1
 
-  [[menu.main]]
+  [[languages.en.menu.main]]
     identifier = "services"
     name = "Services"
-    url = "/services"
+    url = "/en/services"
     weight = 2
 
-  [[menu.main]]
+  # [[languages.en.menu.main]]
+  #   identifier = "blogs"
+  #   name = "Blogs"
+  #   url = "/en/blogs"
+  #   weight = 3
+
+  [[languages.en.menu.main]]
     identifier = "about"
     name = "About"
-    url = "/about"
-    weight = 3
-
-  [[menu.main]]
-    identifier = "contact"
-    name = "Contact Me"
-    url = "/contact"
+    url = "/en/about"
     weight = 4
 
-  # [[menu.main]]
-  #   identifier = "styleguide"
-  #   name = "Style Guide"
-  #   url = "/styleguide"
-  #   weight = 4
+  [[languages.en.menu.main]]
+    identifier = "contact"
+    name = "Contact Me"
+    url = "/en/contact"
+    weight = 5
+
+  [[languages.en.menu.main]]
+    identifier = "wet-dba"
+    name = "Wet DBA"
+    url = "/en/wet-dba"
+    weight = 6
+
+#-------------------------------
+# Dutch Menu
+[languages.nl.menu]
+  [[languages.nl.menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/nl/"
+    weight = 1
+
+  [[languages.nl.menu.main]]
+    identifier = "services"
+    name = "Diensten"
+    url = "/nl/services"
+    weight = 2
+
+  # [[languages.nl.menu.main]]
+  #   identifier = "blogs"
+  #   name = "Blogs"
+  #   url = "/nl/blogs"
+  #   weight = 3
+
+  [[languages.nl.menu.main]]
+    identifier = "about"
+    name = "Over"
+    url = "/nl/about"
+    weight = 4
+
+  [[languages.nl.menu.main]]
+    identifier = "contact"
+    name = "Contact"
+    url = "/nl/contact"
+    weight = 5
+
+  [[languages.nl.menu.main]]
+    identifier = "wet-dba"
+    name = "Wet DBA"
+    url = "/nl/wet-dba"
+    weight = 6
 
 
 [params]
   logo = "" # You can add own logo. For example "/images/logo.png".
-  description = "JQT Consultancy is a company offering IT & Product services for a world transistioning to clean energy."
 
   [params.author]
     name = "Jeroen van der Meer"
     avatar = "images/avatar_jeroen.jpg"
-
-  #-------------------------------
-  # Hero Settings
-  [params.hero]
-    hero__title = "JQT Consultancy"
-    hero__description = """Hi, my name is Jeroen van der Meer from JQT Consultancy BV. With a Master’s degree in Electrical Engineering and a passion for renewable energy, I offer specialized Product Owner services to help your business succeed in the renewable energy sector. My technical expertise and problem-solving skills ensure your projects are delivered with precision and innovation. I have a focus on B2B E-commerce for renewable technologies like, heat pumps, solar systems and battery storage. In the past, I have helpd teams deliver sales and installations of renewable energy systems. These workflows heavily depended on configurators, quote tools and integrations with CRM and ERP systems."""
-    hero__image = "images/Project-view-with-priorities-on-iMac.png"
 
   # [[params.social]]
   #   icon = "ion-logo-twitter"
@@ -86,6 +156,16 @@ paginate = 9
     name = "Github"
     link = "https://github.com/"
 
+  [[params.social]]
+    icon = "ion-ios-briefcase"
+    name = "JQT Consultancy (LinkedIn)"
+    link = "https://www.linkedin.com/company/86024721/"
+
+  [[params.social]]
+    icon = "ion-logo-linkedin"
+    name = "Jeroen van der Meer (LinkedIn)"
+    link = "https://www.linkedin.com/in/jeroenvdmeer1975/"
+
   # Example of adding a new link to the author section and footer:
   # [[params.social]]
   #   icon = "ion-logo-vimeo"
@@ -98,7 +178,7 @@ paginate = 9
   # Newsletter (partials/footer-widgets/widget-subscribe.html)
   # [params.mailchimp]
   #   mailchimp__title = "Get Interesting News"
-  #   mailchimp__text = "Subscribe to our newsletter and we’ll send you the emails of latest posts."
+  #   mailchimp__text = "Subscribe to our newsletter and we'll send you the emails of latest posts."
   #   mailchimp__identifier = "" # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
   #   mailchimp__button__text = "Subscribe" # Add your button text
 
@@ -123,6 +203,13 @@ paginate = 9
 
 
 [outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+# Language-specific outputs for multilingual search
+[languages.en.outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[languages.nl.outputs]
   home = ["HTML", "RSS", "JSON"]
 
 
