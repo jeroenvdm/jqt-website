@@ -1,5 +1,5 @@
 ---
-title: "Product Owner Services"
+title: "Product Owner Services Renewable Energy | 12 Years E-Commerce Experience | Netherlands"
 description: "Experienced product owner - open for wide range of product development roles in various domains."
 image: "images/iMac-with-Gantt-chart-on-desk.png"
 date: 2024-11-04
@@ -19,7 +19,7 @@ Experienced (12 years) product owner for software systems. I am experienced in s
 **Technical Product Management**
 * Experience with webapps, iPad/iPhone apps.
 * Experience with ERP & CRM integrations.
-* Experience with order moanagement and logistics.
+* Experience with order management and logistics.
 * Experience with (custom) integrations for customer and suppliers.
 * Always focussed on smooth workflows. 
 

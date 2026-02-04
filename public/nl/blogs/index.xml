@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on JQT Consultancy</title>
-    <link>http://localhost:56798/nl/blogs/</link>
+    <link>http://localhost:1313/nl/blogs/</link>
     <description>Recent content in Blogs on JQT Consultancy</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>nl-NL</language>
-    <lastBuildDate>Wed, 10 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:56798/nl/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jan 2026 12:01:30 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/nl/blogs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Product Management met Claude Code</title>
-      <link>http://localhost:56798/nl/blogs/product_mgmt_with_claude_code/</link>
-      <pubDate>Wed, 10 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56798/nl/blogs/product_mgmt_with_claude_code/</guid>
-      <description>Waar we als product owners vroeger mock-ups maakte met Figma of ander gereedschap, hebben we nu AI coding gereedschappen ter beschikking om prototypes van de features en oplossingen te maken. Samen met de stake holders kunnen we steeds sneller itereren over de gwenste functionaliteit en daarmee een completere set specificaties aan het development team bezorgen. In dit artikelen, stel ik mijzelf als doel om aan de hand van een specificatie van een werkend prototype te maken samen met Claude Code.</description>
+      <title>Gebruik van AI als een Product Owner (Deel 1)</title>
+      <link>http://localhost:1313/nl/blogs/ai-product-part-1/</link>
+      <pubDate>Wed, 28 Jan 2026 12:01:30 +0100</pubDate>
+      <guid>http://localhost:1313/nl/blogs/ai-product-part-1/</guid>
+      <description>&lt;p&gt;Momenteel wordt er veel gesproken over het bouwen van software met AI. Dit verandert de dynamiek binnen development teams en daarmee ook de dynamiek tussen de product owner en de developers. Om ervaring op te doen en tegelijkertijd een goede tijd te hebben, zal ik in de komende artikelen een back-end applicatie specificeren met behulp van AI. Hierbij ligt de focus op het ontwikkelen van een specificatie die onafhankelijk is van de technologie en zo goed mogelijk aansluit bij het codeerproces met AI. De focus van deze artikelen ligt dus op de relatie van de product owner en het development team en niet tussen de product owner en de externe stakeholders.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

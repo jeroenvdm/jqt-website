@@ -5,7 +5,7 @@
 <div class="container">
   <div class="row grid">
 
-    {{ $paginator := .Paginate (where .Site.RegularPages "Type" "posts") }}
+    {{ $paginator := .Paginate (where .Site.RegularPages "Type" "blogs") }}
     {{ range $paginator.Pages }}
       {{ partial "article-content.html" . }}
     {{ end }}

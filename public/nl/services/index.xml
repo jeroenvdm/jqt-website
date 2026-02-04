@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on JQT Consultancy</title>
-    <link>http://localhost:56798/nl/services/</link>
+    <link>http://localhost:1313/nl/services/</link>
     <description>Recent content in Services on JQT Consultancy</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>nl-NL</language>
     <lastBuildDate>Tue, 02 Dec 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:56798/nl/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/nl/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Product Owner Diensten</title>
-      <link>http://localhost:56798/nl/services/product-owner/</link>
+      <title>Product Owner Diensten Hernieuwbare Energie | 12 Jaar E-Commerce Ervaring | Nederland</title>
+      <link>http://localhost:1313/nl/services/product-owner/</link>
       <pubDate>Tue, 02 Dec 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56798/nl/services/product-owner/</guid>
-      <description>Ervaren (12 jaar) product owner voor softwaresystemen. Ik heb ruime ervaring met softwareproducten zoals webapplicaties en iPad-apps, inclusief de benodigde back-end services en integraties met bedrijfssystemen. Ik heb me gespecialiseerd in e-commerce applicaties in de sector duurzame energie, maar ik eigen me domeinkennis snel toe. Vloeiend in Engels en Nederlands, zoek ik actief naar verbeterde oplossingen voor uitdagingen en kansen van en met de stakeholders.&#xA;Kernexpertise Toepassen van het scrum agile framework met interne en externe teams.</description>
+      <guid>http://localhost:1313/nl/services/product-owner/</guid>
+      <description>&lt;p&gt;Ervaren (12 jaar) product owner voor softwaresystemen. Ik heb ruime ervaring met softwareproducten zoals webapplicaties en iPad-apps, inclusief de benodigde back-end services en integraties met bedrijfssystemen. Ik heb me gespecialiseerd in e-commerce applicaties in de sector duurzame energie, maar ik eigen me domeinkennis snel toe. Vloeiend in Engels en Nederlands, zoek ik actief naar verbeterde oplossingen voor uitdagingen en kansen van en met de stakeholders.&lt;/p&gt;&#xA;&lt;h3 id=&#34;kernexpertise&#34;&gt;Kernexpertise&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Toepassen van het scrum agile framework met interne en externe teams.&lt;/li&gt;&#xA;&lt;li&gt;Afstemmen en begeleiden van stakeholders om oplossingen te vinden voor kansen en uitdagingen.&lt;/li&gt;&#xA;&lt;li&gt;Creëren van functionele productvisualisaties om te communiceren met stakeholders (geen design).&lt;/li&gt;&#xA;&lt;li&gt;Ervaren met Jira, Confluence, ClickUp, Asana en Linear.&lt;/li&gt;&#xA;&lt;li&gt;Backlog- en roadmapbeheer inclusief het uitdagen van de business op prioriteiten.&lt;/li&gt;&#xA;&lt;li&gt;Grote interesse in en snelle opname van domeinkennis.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Technisch Productmanagement&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

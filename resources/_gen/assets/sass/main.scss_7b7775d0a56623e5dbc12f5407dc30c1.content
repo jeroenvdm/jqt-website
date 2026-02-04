@@ -1750,14 +1750,18 @@ table tr:hover {
 .hero__content {
   position: absolute;
   top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
+  right: 5%;
+  transform: translateY(-50%);
   z-index: 1;
   width: 100%;
   max-width: 650px;
   padding: 0 20px;
   text-align: center; }
-
+  @media only screen and (max-width: 768px) {
+    .hero__content {
+      right: auto;
+      left: 50%;
+      transform: translate(-50%, -50%); } }
 .hero__title {
   font-size: 57px;
   margin: 0 0 10px;
@@ -2458,6 +2462,11 @@ table tr:hover {
       .language-switcher__link {
         padding: 8px 12px;
         font-size: 12px; } }
+/* >>>>>>>>>>>>>> :: 3.10-Mermaid <<<<<<<<<<<<<<< */
+.mermaid {
+  text-align: center;
+  margin: 1.5rem 0; }
+
 /* =======================
 :: 4-Layouts
 ======================= */

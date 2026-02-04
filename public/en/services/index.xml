@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on JQT Consultancy</title>
-    <link>http://localhost:56798/en/services/</link>
+    <link>http://localhost:1313/en/services/</link>
     <description>Recent content in Services on JQT Consultancy</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 04 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:56798/en/services/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/en/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Product Owner Services</title>
-      <link>http://localhost:56798/en/services/product-owner/</link>
+      <title>Product Owner Services Renewable Energy | 12 Years E-Commerce Experience | Netherlands</title>
+      <link>http://localhost:1313/en/services/product-owner/</link>
       <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:56798/en/services/product-owner/</guid>
-      <description>Experienced (12 years) product owner for software systems. I am experienced in software products like webapps, and iPad apps including the necessary back-end services and company system integrations. I have specialized in e-Commerce applications in the renewable energy sector, but I learn domain knowledge quickly. Fluent in English and Dutch, I will actively seek for improved solutions for challenges and opportunities of and with the stake holders.&#xA;Core Expertise Applying the scrum agile framework as a product owner with internal and external teams.</description>
+      <guid>http://localhost:1313/en/services/product-owner/</guid>
+      <description>&lt;p&gt;Experienced (12 years) product owner for software systems. I am experienced in software products like webapps, and iPad apps including the necessary back-end services and company system integrations. I have specialized in e-Commerce applications in the renewable energy sector, but I learn domain knowledge quickly. Fluent in English and Dutch, I will actively seek for improved solutions for challenges and opportunities of and with the stake holders.&lt;/p&gt;&#xA;&lt;h3 id=&#34;core-expertise&#34;&gt;Core Expertise&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Applying the scrum agile framework as a product owner with internal and external teams.&lt;/li&gt;&#xA;&lt;li&gt;Aligning and guiding stake holders to find solutions for opportunities and challenges.&lt;/li&gt;&#xA;&lt;li&gt;Creating product functional visuals to communicate with stake holders (No design).&lt;/li&gt;&#xA;&lt;li&gt;Experienced with Jira, Confluence, ClickUp, Asana, and Linear.&lt;/li&gt;&#xA;&lt;li&gt;Backlog &amp;amp; Roadmap management including challeging the business on priorities.&lt;/li&gt;&#xA;&lt;li&gt;Deep interest and Quick study of domain knowledge.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;&lt;strong&gt;Technical Product Management&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

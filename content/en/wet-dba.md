@@ -1,5 +1,5 @@
 ---
-title: "Successful collabrotation with the DBA Act"
+title: "Successful collaboration with the DBA Act"
 layout: page
 description: "Hiring an independent contractor is assessed under the DBA Act to prevent false self-employment. Here's an overview of the assessment framework and why this is not an issue."
 image: "images/claude-code-todo-team-review.png"
@@ -17,6 +17,8 @@ Since January 1, 2025, the DBA (Deregulation of Labor Relations Assessment Act) 
 5. **Invoices**: I will invoice monthly or per assignment from JQT Consultancy BV.
 6. **Knowledge**: I often bring knowledge that has not yet been applied, or is applied to a limited extent, at the client. This ensures that knowledge sharing is part of the assignment.
 7. **Insurance**: JQT Consultancy BV has professional liability and general liability insurance. Additionally, matters such as health insurance and disability insurance are arranged for me personally.
+
+For more information, I would like to refer you to the people at [Moore-DRV](https://www.moore-drv.nl) who helped me.
 
 I hope this has addressed any concerns, and I look forward to a pleasant collaboration.
 

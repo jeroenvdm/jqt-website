@@ -4,7 +4,7 @@ description: "Niet alleen applicatie ontwikkeling verandert snel met het opkomen
 image: "images/claude-code-todo-team-review.png"
 date: 2025-12-10
 featured: true
-draft: false
+draft: true
 ---
 
 Waar we als product owners vroeger mock-ups maakte met Figma of ander gereedschap, hebben we nu AI coding gereedschappen ter beschikking om prototypes van de features en oplossingen te maken. Samen met de stake holders kunnen we steeds sneller itereren over de gwenste functionaliteit en daarmee een completere set specificaties aan het development team bezorgen. In dit artikelen, stel ik mijzelf als doel om aan de hand van een specificatie van een werkend prototype te maken samen met Claude Code. Dit prototype zal ik op fly.io hosten zodat ik de url met stakeholders kan delen, bespreken en waardevolle feedback ontvang.

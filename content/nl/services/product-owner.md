@@ -1,5 +1,5 @@
 ---
-title: "Product Owner Diensten"
+title: "Product Owner Diensten Hernieuwbare Energie | 12 Jaar E-Commerce Ervaring | Nederland"
 description: "Ervaren product owner – open voor een breed scala aan productontwikkelingsfuncties in verschillende domeinen."
 image: "images/iMac-with-Gantt-chart-on-desk.png"
 date: 2025-12-02

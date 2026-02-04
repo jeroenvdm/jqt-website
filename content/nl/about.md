@@ -1,5 +1,6 @@
 ---
-title: Over
+title: "Over Jeroen van der Meer | Product Owner Hernieuwbare Energie | 12+ Jaar Ervaring"
+description: "Ontmoet Jeroen van der Meer - ervaren Product Owner met 12+ jaar ervaring in hernieuwbare energie. Master Elektrotechniek. Gespecialiseerd in B2B e-commerce voor zonnepanelen, batterijopslag & warmtepompen in Nederland."
 image: '/images/About_Jeroen_v2.jpg'
 ---
 

@@ -18,6 +18,8 @@ Sinds 1 januari 2025 wordt de DBA actief getoetst door de belastingdienst. Deze 
 6. **Kennis**: Vaak neem ik kennis mee die nog niet op beperkt toegepast wordt bij de klant. Dit zorgt ervoor dat deze kennis delen onderdeel is van de op opdracht.
 7. **Verzekeringen**: JQT Consultancy BV heeft bedrijfsaansprakelijk- en beroepsaansprakelijkheidsverzekeringen afgesloten. Daarnaast zijn zaken als ziektekostenverzekeringen en arbeidsongeschiktheidsverzekeringen voor mij als persoon geregeld.
 
+Voor meer informatie, verwijs ik graag naar de mensen van [Moore-DRV](https://www.moore-drv.nl) die mij geholpen hebben.
+
 Hopelijk heb ik eventuele zorgen hiermee kunnen wegnemen en ik kijk uit naar een fijne samenwerking.
 
 

@@ -2,142 +2,195 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:56798/nl/blogs/</loc>
-    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/nl/tags/ai/</loc>
+    <lastmod>2026-01-28T12:01:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:56798/en/blogs/"
+                href="http://localhost:1313/en/tags/ai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl-NL"
-                href="http://localhost:56798/nl/blogs/"
+                href="http://localhost:1313/nl/tags/ai/"
                 />
   </url><url>
-    <loc>http://localhost:56798/nl/</loc>
-    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/nl/blogs/</loc>
+    <lastmod>2026-01-28T12:01:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:56798/en/"
+                href="http://localhost:1313/en/blogs/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl-NL"
-                href="http://localhost:56798/nl/"
+                href="http://localhost:1313/nl/blogs/"
                 />
   </url><url>
-    <loc>http://localhost:56798/nl/blogs/product_mgmt_with_claude_code/</loc>
-    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/nl/tags/e-commerce/</loc>
+    <lastmod>2026-01-28T12:01:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:56798/en/blogs/product_mgmt_with_claude_code/"
+                href="http://localhost:1313/en/tags/e-commerce/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl-NL"
-                href="http://localhost:56798/nl/blogs/product_mgmt_with_claude_code/"
+                href="http://localhost:1313/nl/tags/e-commerce/"
                 />
   </url><url>
-    <loc>http://localhost:56798/nl/wet-dba/</loc>
-    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/nl/tags/expedition/</loc>
+    <lastmod>2026-01-28T12:01:30+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:56798/en/wet-dba/"
+                href="http://localhost:1313/en/tags/expedition/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl-NL"
-                href="http://localhost:56798/nl/wet-dba/"
+                href="http://localhost:1313/nl/tags/expedition/"
                 />
   </url><url>
-    <loc>http://localhost:56798/nl/services/product-owner/</loc>
+    <loc>http://localhost:1313/nl/blogs/ai-product-part-1/</loc>
+    <lastmod>2026-01-28T12:01:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/blogs/ai-product-part-1/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl-NL"
+                href="http://localhost:1313/nl/blogs/ai-product-part-1/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/nl/</loc>
+    <lastmod>2026-01-28T12:01:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl-NL"
+                href="http://localhost:1313/nl/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/nl/tags/product/</loc>
+    <lastmod>2026-01-28T12:01:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/tags/product/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl-NL"
+                href="http://localhost:1313/nl/tags/product/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/nl/tags/</loc>
+    <lastmod>2026-01-28T12:01:30+01:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl-NL"
+                href="http://localhost:1313/nl/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/nl/wet-dba/</loc>
+    <lastmod>2025-12-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-US"
+                href="http://localhost:1313/en/wet-dba/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="nl-NL"
+                href="http://localhost:1313/nl/wet-dba/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/nl/services/product-owner/</loc>
     <lastmod>2025-12-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:56798/en/services/product-owner/"
+                href="http://localhost:1313/en/services/product-owner/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl-NL"
-                href="http://localhost:56798/nl/services/product-owner/"
+                href="http://localhost:1313/nl/services/product-owner/"
                 />
   </url><url>
-    <loc>http://localhost:56798/nl/services/</loc>
+    <loc>http://localhost:1313/nl/services/</loc>
     <lastmod>2025-12-02T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:56798/en/services/"
+                href="http://localhost:1313/en/services/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl-NL"
-                href="http://localhost:56798/nl/services/"
+                href="http://localhost:1313/nl/services/"
                 />
   </url><url>
-    <loc>http://localhost:56798/nl/categories/</loc>
+    <loc>http://localhost:1313/nl/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:56798/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl-NL"
-                href="http://localhost:56798/nl/categories/"
+                href="http://localhost:1313/nl/categories/"
                 />
   </url><url>
-    <loc>http://localhost:56798/nl/contact/</loc>
+    <loc>http://localhost:1313/nl/contact/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:56798/en/contact/"
+                href="http://localhost:1313/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl-NL"
-                href="http://localhost:56798/nl/contact/"
+                href="http://localhost:1313/nl/contact/"
                 />
   </url><url>
-    <loc>http://localhost:56798/nl/about/</loc>
+    <loc>http://localhost:1313/nl/about/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:56798/en/about/"
+                href="http://localhost:1313/en/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl-NL"
-                href="http://localhost:56798/nl/about/"
+                href="http://localhost:1313/nl/about/"
                 />
   </url><url>
-    <loc>http://localhost:56798/nl/styleguide/</loc>
+    <loc>http://localhost:1313/nl/styleguide/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-US"
-                href="http://localhost:56798/en/styleguide/"
+                href="http://localhost:1313/en/styleguide/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="nl-NL"
-                href="http://localhost:56798/nl/styleguide/"
-                />
-  </url><url>
-    <loc>http://localhost:56798/nl/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-US"
-                href="http://localhost:56798/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="nl-NL"
-                href="http://localhost:56798/nl/tags/"
+                href="http://localhost:1313/nl/styleguide/"
                 />
   </url>
 </urlset>

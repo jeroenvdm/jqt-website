@@ -2,10 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on JQT Consultancy</title>
-    <link>http://localhost:56798/en/tags/</link>
+    <link>http://localhost:1313/en/tags/</link>
     <description>Recent content in Tags on JQT Consultancy</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-US</language>
-    <atom:link href="http://localhost:56798/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jan 2026 12:01:30 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AI</title>
+      <link>http://localhost:1313/en/tags/ai/</link>
+      <pubDate>Wed, 28 Jan 2026 12:01:30 +0100</pubDate>
+      <guid>http://localhost:1313/en/tags/ai/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>E-Commerce</title>
+      <link>http://localhost:1313/en/tags/e-commerce/</link>
+      <pubDate>Wed, 28 Jan 2026 12:01:30 +0100</pubDate>
+      <guid>http://localhost:1313/en/tags/e-commerce/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Expedition</title>
+      <link>http://localhost:1313/en/tags/expedition/</link>
+      <pubDate>Wed, 28 Jan 2026 12:01:30 +0100</pubDate>
+      <guid>http://localhost:1313/en/tags/expedition/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Product</title>
+      <link>http://localhost:1313/en/tags/product/</link>
+      <pubDate>Wed, 28 Jan 2026 12:01:30 +0100</pubDate>
+      <guid>http://localhost:1313/en/tags/product/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

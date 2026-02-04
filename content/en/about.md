@@ -1,5 +1,6 @@
 ---
-title: About
+title: "About Jeroen van der Meer | Product Owner Renewable Energy | 12+ Years Experience"
+description: "Meet Jeroen van der Meer - experienced Product Owner with 12+ years in renewable energy. Master's in Electrical Engineering. Specialized in B2B e-commerce for solar, battery storage & heat pumps in Netherlands."
 image: '/images/About_Jeroen_v2.jpg'
 ---
 
