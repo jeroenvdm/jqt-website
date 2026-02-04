@@ -3,9 +3,11 @@
 baseURL = "https://jqtconsultancy.com/"
 title = "JQT Consultancy"
 googleAnalytics = "G-M88V762P7V" # Add your identifier. For example UA-99631805-1.
-paginate = 9
-defaultContentLanguage = "en"
-defaultContentLanguageInSubdir = true  # Force English to use /en/ subdirectory
+defaultContentLanguage = "nl"
+defaultContentLanguageInSubdir = true  # Force Dutch to use /nl/ subdirectory
+
+[pagination]
+  pagerSize = 9
 
 #-------------------------------
 # Languages
@@ -14,31 +16,31 @@ defaultContentLanguageInSubdir = true  # Force English to use /en/ subdirectory
     contentDir = 'content/en'
     languageName = 'English'
     languageCode = "en-US"
-    weight = 10
+    weight = 20
 
     # English-specific parameters
     [languages.en.params]
       description = "JQT Consultancy is a company offering IT & Product services for a world transitioning to clean energy."
 
       [languages.en.params.hero]
-        hero__title = "JQT Consultancy"
+        hero__title = "JQT Consultancy | Product Management & IT Services for Renewable Energy"
         hero__description = """Product Management and IT services for a clean energy future."""
-        hero__image = "/images/Project-view-with-priorities-on-iMac.png"
+        hero__image = "/images/Jeroen-landscape-medium.jpg"
 
   [languages.nl]
     contentDir = 'content/nl'
     languageName = 'Nederlands'
     languageCode = "nl-NL"
-    weight = 20
+    weight = 10
 
     # Dutch-specific parameters
     [languages.nl.params]
       description = "JQT Consultancy is een bedrijf dat IT & Product diensten biedt voor een wereld die overschakelt naar schone energie."
 
       [languages.nl.params.hero]
-        hero__title = "JQT Consultancy"
+        hero__title = "JQT Consultancy | Product Management & IT Diensten voor Hernieuwbare Energie"
         hero__description = """Product Management en IT diensten voor een schone energie toekomst."""
-        hero__image = "/images/Project-view-with-priorities-on-iMac.png"
+        hero__image = "/images/Jeroen-landscape-medium.jpg"
 
 #-------------------------------
 # English Menu
@@ -55,11 +57,11 @@ defaultContentLanguageInSubdir = true  # Force English to use /en/ subdirectory
     url = "/en/services"
     weight = 2
 
-  # [[languages.en.menu.main]]
-  #   identifier = "blogs"
-  #   name = "Blogs"
-  #   url = "/en/blogs"
-  #   weight = 3
+  [[languages.en.menu.main]]
+    identifier = "blogs"
+    name = "Blog"
+    url = "/en/blogs"
+    weight = 3
 
   [[languages.en.menu.main]]
     identifier = "about"
@@ -94,11 +96,11 @@ defaultContentLanguageInSubdir = true  # Force English to use /en/ subdirectory
     url = "/nl/services"
     weight = 2
 
-  # [[languages.nl.menu.main]]
-  #   identifier = "blogs"
-  #   name = "Blogs"
-  #   url = "/nl/blogs"
-  #   weight = 3
+  [[languages.nl.menu.main]]
+    identifier = "blogs"
+    name = "Blog"
+    url = "/nl/blogs"
+    weight = 3
 
   [[languages.nl.menu.main]]
     identifier = "about"
