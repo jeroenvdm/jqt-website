@@ -4,7 +4,7 @@ description: "Momenteel is er veel aandacht voor het coderen met AI. In dit arti
 date: 2026-01-28T12:01:30+01:00
 image: "/images/warehouse-with-boxes-in-stock.jpg"
 featured: true
-draft: false
+draft: true
 tags: ["Product", "AI", "E-Commerce", "Expedition"]
 ---
 

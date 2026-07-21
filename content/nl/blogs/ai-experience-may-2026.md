@@ -4,7 +4,7 @@ description: "Sinds een aantal maanden schrijf ik effectief geen code meer. AI i
 date: 2026-05-20T10:00:00+01:00
 image: "/images/warehouse-with-boxes-in-stock.jpg"
 featured: true
-draft: false
+draft: true
 tags: ["Product", "AI", "AI Coderen","HPGO", "Dark Code", "AI Skills"]
 ---
 Voor HPGO maak ik momenteel een iPad applicatie voor warmtepompinstallateurs die het mogelijk maakt om snel een degelijk warmtepomp advies te geven. Voor meer informatie hierover volg ons bij HPGO BV.
