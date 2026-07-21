@@ -1,0 +1,18 @@
+%% Post 9: choosing a scaling framework — routes by dominant constraint, not by team count alone.
+
+graph TD
+    START{"Do multiple teams<br/>need to deliver<br/>one outcome?"}
+    START -->|No| TEAM["Stay at team level.<br/>See post 4:<br/>Scrum or Kanban."]
+    START -->|Yes| BLOCK{"Is the real cost<br/>waiting on external<br/>parties or approvals?"}
+
+    BLOCK -->|Yes| FIXFIRST["Fix the dependency first.<br/>No framework removes<br/>a constraint outside<br/>the delivery system."]
+    BLOCK -->|No| COUNT{"How many teams<br/>on one product?"}
+
+    COUNT -->|"3 to 9"| SMALL{"Can you restructure<br/>into feature teams with<br/>one shared backlog?"}
+    COUNT -->|"More than 9"| BIG{"Do funding cycles,<br/>external commitments or<br/>regulation drive planning?"}
+
+    SMALL -->|Yes| LESS["LeSS<br/>Descale: one PO,<br/>one backlog, remove<br/>coordination structure."]
+    SMALL -->|No| NEXUS["Nexus<br/>Add integration only.<br/>Minimal overhead on<br/>top of Scrum."]
+
+    BIG -->|Yes| SAFE["SAFe<br/>Adds portfolio, funding<br/>and planning structure.<br/>Highest overhead."]
+    BIG -->|No| LESSHUGE["LeSS Huge<br/>Requirement areas,<br/>structure still minimal."]

@@ -1,0 +1,17 @@
+%% Post 5: why the second team is a different problem, not a bigger one.
+%% Coordination links grow as n(n-1)/2 while delivery capacity grows as n.
+%% 2 teams = 1 link, 4 teams = 6 links, 8 teams = 28 links.
+
+graph TD
+    subgraph FOUR["4 teams — 6 coordination links"]
+        A1[Team A] --- B1[Team B]
+        A1 --- C1[Team C]
+        A1 --- D1[Team D]
+        B1 --- C1
+        B1 --- D1
+        C1 --- D1
+    end
+
+    subgraph TWO["2 teams — 1 coordination link"]
+        A0[Team A] --- B0[Team B]
+    end
